@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    background: #eee;
+}
+
+#app {
+    max-width: 400px;
+    margin: 32px auto;
+    padding: 24px;
+    background: white;
+    border-radius: 3px;
+}
+
+#app > div {
+    margin: 6px 0;
+}
